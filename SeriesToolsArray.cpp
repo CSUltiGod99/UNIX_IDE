@@ -28,6 +28,21 @@ class Tools
       int Radi = "
     }
 
+    int main()
+{
+    array[i] = array[index];
+        array[index] = temp;
+    }
+
+    for (int i = 1; i <= 10; i++) {
+        cout << array[i] << " "; //somehow, this display needs to be entered into another array
+    }
+
+    system("PAUSE");
+
+}
+
+}
 
 
 
