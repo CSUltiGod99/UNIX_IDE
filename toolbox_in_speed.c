@@ -16,10 +16,11 @@ int main()
 {
    void time_on_app()
    {
-       d
-       w
-
-
+       int speed_on_start[5] = { 2, 5, 5, 13, 22 };
+       for(int f = 0; f++)
+          printf(f++);
+       
+       printf(speed_on_start);
    }
 
 
@@ -30,6 +31,6 @@ int main()
 
 
 
-    d
+    
 }
 
