@@ -7,9 +7,8 @@ using namespace std;
 
 int iterator_m(v)
 {
-
-
+  
+  
+  
 }
-
-
 
