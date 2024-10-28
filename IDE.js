@@ -7,10 +7,10 @@ function UI_table()
 
    //  element GUI
 
+function apply_string()
+{
+   var string step1 = " ";
+   public var string TextEdit = "Text";
 
-
-
-
-
-
-
+   
+}
