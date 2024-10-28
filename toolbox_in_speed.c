@@ -1,14 +1,18 @@
+// C++ - Create a Toolbox Processing Speed:
 
-
+// source code:
 #include <stdio.h>
 #include <stdlib.h>
-#include <systemtyp.
+#include <system.h>
 #include <iteration>
 #include <stdbool.h>
 
 int tool_box_speed()
 {
-
+   const int boxSpeed = 0;
+   const int boxMaxSpeed = 10;
+   
+   f
    
 }
 
