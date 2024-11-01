@@ -11,8 +11,19 @@ class Tools
 {
     int Too
 
-  
 
+    int pipeChar()
+    {
+      string pipeC = "|";
+      cin >> pipeC;
+
+      if(pipeC == "|")
+      {
+         cout << Cpipe_input << endl;
+      }
+        
+      return 1;
+    }
   
     int Semi_Colon()
     {
@@ -24,8 +35,15 @@ class Tools
 
     int Radiobutton()
     {
-      Pic = 🔘;
-      int Radi = "
+       Pic = 🔘;
+       int Radi_3 = "
+
+      if(Pic == 🔘)
+      {
+        cout << Pic << endl;
+        return 0;
+      } 
+    
     }
 
     int main()
