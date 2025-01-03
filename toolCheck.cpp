@@ -5,8 +5,18 @@
 #include <string>
 
 class CheckBoxTool {
-    t
+    private:
+       std::string name;
+       int modelBoxCheckQuantity = 1;
 
+    public:
+    // please add a constructor declaration
+       CheckBoxTool(string chbx, int quant)
+      {
+          name = chbx;
+          int = quant;
+
+  
 
 
 }
