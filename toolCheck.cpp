@@ -26,11 +26,13 @@ class CheckBoxTool {
       int main( )
 {
         // Create an instance of a Check Box Model for the IDE
-        int 
+        CheckBoxTool chbxtool1(CheckBxModel,1);
 
+        // Display the information of the CheckBox tool
+        chxtool1.display();
 
-
-
+        return 0;
+}
 
 }
 
